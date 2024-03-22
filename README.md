@@ -189,6 +189,10 @@ Code for the project began being written on December 23rd 2023 and the full base
 
 On the low end a single account averages 36 map arts every 24 hours. The operation had 3 accounts, each with their own machines. This amounted to a minimum of 108 map arts every 24 hours. However, this total does not factor in bots reusing portions of previous maps in the queue, so depending on what's being built this figure can be much higher. The 36 map arts per 24 hours is also an average of 40 minutes per map, although I have also seen some maps be completed in as few as ~35 minutes without recycling, so it varies heavily depending on the images.
 
+### How fast do the bots place carpet?
+
+It can maintain speeds of 20 carpets placed per second, however it pauses on the very last carpet on the building loop and also doesnt place while moving around.
+
 ### What is the largest map currently made with the bot?
 
 The current largest map is a 56x31 (1,736 ids) image of [The Chronicles of Narnia](https://narniafans.com/wp-content/uploads/2020/09/narnia-678x381.jpg). The map took around 18 real time days start to finish with all 3 accounts working on it. Do note the real image used was significantly higher resolution than the one linked. The image was a group decision and ultimately Blocker was the one who brought up the idea as well as provided the final image.
