@@ -195,7 +195,7 @@ The current largest map is a 56x31 (1,736 ids) image of [The Chronicles of Narni
 
 ### What were other potential images for the largest map art?
 
-Some of the ideas that were thrown around were school of athens, berserk manga panels, nether water avalysium art, james webb images, crunchy cat luna, narnia, and a custom 2b2t history timeline.
+Some of the ideas that were thrown around were school of athens, berserk manga panels, nether water avalysium art, james webb images, crunchy cat luna, narnia, a custom 2b2t history timeline, and vela supernova remnant.
 
 ### What was the first map art ever created with the bot?
 
