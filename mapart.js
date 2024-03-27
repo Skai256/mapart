@@ -1353,6 +1353,10 @@ public.init = function (Skainet) {
             if (public.state == "renamemap") {
                 console.log(public.state)
 
+                //ugly but it needs to be here, sometimes causes issues with shroomlight check cause its not in this state block
+                await safegoto(public.info.carpets[1].position.offset(0, 1, 0))
+                if (!seedcheck()) { return }
+
                 //by here were gonna check if we need to rename the map
                 var expectedpath = Skainet.madir + "\\" + Skainet.mods.JsonHandler.jsons[Skainet.account + "Mapart"].current + ".json"
                 var mapname = undefined
@@ -1462,6 +1466,7 @@ public.init = function (Skainet) {
                         }
 
                         //place new anvil
+                        bot.updateHeldItem()
                         await Skainet.mods.Mineflayer.bot.placeBlock(gotoblock, Skainet.mods.Mineflayer.facetodirection(blockat.face))
                         await Skainet.mods.Internals.wait(3) //just incase, although placeblock places clientsided so its possible this fails anyways lol
                         if (!seedcheck()) { return }
