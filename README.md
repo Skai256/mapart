@@ -257,7 +257,7 @@ There was just a queue channel in a discord server which was all manually conver
 
 ### Will a schematic for the machine be released?
 
-For a good while the machine will remain private, honestly it isn't very hard to reverse engineer out of the code. Eventually the schematic will be included in the repo however my intention is to see what other people create rather than skid it first. I give an estimate of a month or two, unless it goes public in an unofficial way before then. Another thing worth noting is once the machine schematic is released I will also add footage of a bot building map art.
+Schematic has been added as of April 21st 2024. The only things of note are all the carpet stations use item filters for each carpet colour and the dispensers in the floor contain water buckets. All other chests are labelled but let me know if something isn't clear and I'll add clarification here. Footage of bots actually building will be added at a later date.
 
 ### Will this repo be upkept in the future?
 
