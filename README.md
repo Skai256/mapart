@@ -257,7 +257,7 @@ There was just a queue channel in a discord server which was all manually conver
 
 ### Will a schematic for the machine be released?
 
-Schematic has been added as of April 21st 2024. The only things of note are all the carpet stations use item filters for each carpet colour and the dispensers in the floor contain water buckets. All other chests are labelled but let me know if something isn't clear and I'll add clarification here. Footage of bots actually building will be added at a later date.
+Schematic has been added as of April 21st 2024. The only things of note are all the carpet stations use item filters for each carpet colour and the dispensers in the floor contain water buckets. All other chests are labelled but let me know if something isn't clear and I'll add clarification here.
 
 ### Will this repo be upkept in the future?
 
